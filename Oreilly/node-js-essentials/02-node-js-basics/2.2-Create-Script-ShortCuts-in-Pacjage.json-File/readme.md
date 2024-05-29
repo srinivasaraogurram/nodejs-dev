@@ -1,0 +1,16 @@
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![combining two commands or scripts](image-6.png)
+![added both command and appending feb to both](image-7.png)
+![Executing both the commands](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+one can run any shell script 
+![alt text](image-11.png)
+![alt text](image-12.png)
+creating a command "create-file": "mkdir scr && touch src/my-file.txt && echo 'text!' > scr/my-file.txt"
+![alt text](image-13.png)
